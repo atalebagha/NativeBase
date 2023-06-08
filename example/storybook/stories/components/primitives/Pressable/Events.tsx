@@ -51,7 +51,7 @@ export function Example() {
                 Marketing License
               </Text>
               <Text mt="2" fontSize="sm" color="coolGray.700">
-                Unlock powerfull time-saving tools for creating email delivery
+                Unlock powerful time-saving tools for creating email delivery
                 and collecting marketing data
               </Text>
               <Flex>
